@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Makkli
-- 👀 I’m interested in ttrpgs, video games, game modding (especially Bethesda games and Rimworld), learning new coding skills, community theater, voice acting and electroswing.
-- 🌱 I’m a research analyst with a focus on experience management, currently learning C# in my private time in addition to working on my Bachelors in Data Analytics at WGU.
-- 💞️ I’m also working on a passion project to create the ultimate Fallout 3 "remaster" in my own vision (yes I know about TTW).
+- 👀 I’m interested in ttrpgs, video games, game modding (especially Bethesda games), learning new coding skills, community theater, voice acting and electroswing.
+- 🌱 I’m a research analyst with a focus on experience management and pursuing my Bachelors Software Engineering at WGU.
 - 📫 How to reach me ...good question. I'm paranoidly private.
 
 <!---
